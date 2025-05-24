@@ -6,7 +6,7 @@
 -   Developed my own AI model for prediction of strings
 -   Recorded my first longest vlog ( DJI action )
 -   YT - https://www.youtube.com/@serial_chiller_rides
--   Have a look at my portfolio. Its completely made on React. - https://asr.dev-vercel.app
+-   Have a look at my portfolio - https://asr.dev-vercel.app
 
 -   //new
 -   Learnt how to use multimeter with DC devices today 😂
